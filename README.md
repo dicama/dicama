@@ -1,4 +1,8 @@
-### Welcome to the Digital Cancer Management Repo👋
+# Welcome to the Digital Cancer Management Repo👋
+
+### Technologies & Tools we use
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/github/license/dicama/monk-modules?color=2D1553&style=for-the-badge)
 
 
 <!--
