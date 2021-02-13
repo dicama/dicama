@@ -2,7 +2,7 @@
 
 ### Technologies & Tools we use
 ![](https://img.shields.io/badge/Dev-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Android-SDK->-21informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Android-SDK>21-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
