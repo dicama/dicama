@@ -2,7 +2,7 @@
 
 ### Technologies & Tools we use
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/github/license/dicama/monk-modules?color=2D1553&style=for-the-badge)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 
 <!--
