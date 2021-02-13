@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to the Digital Cancer Management Repo👋
+
+## Technologies & Tools we use
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
 
 <!--
 **dicama/dicama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
