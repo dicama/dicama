@@ -1,7 +1,7 @@
 # Welcome to the Digital Cancer Management Repo👋
 
 ### Technologies & Tools we use
-![](https://img.shields.io/badge/Dev-Flutter-informational?style=flat&logo=flutter&logoColor=FFD42A&color=2D1553)
+![](https://img.shields.io/badge/Dev-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=FFD42A&color=2D1553)
 ![](https://img.shields.io/badge/Lang-Dart-informational?style=flat&logo=dart&logoColor=FFD42A&color=2D1553)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=FFD42A&color=2D1553)
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&color=2D1553)
