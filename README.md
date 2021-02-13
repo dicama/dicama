@@ -7,6 +7,8 @@
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/UI-Material-informational?style=flat&logo=material-UI&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/UI&UX-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 
 
 <!--
