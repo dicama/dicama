@@ -49,6 +49,6 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 We gratefully acknowledge strong support by the Open Knowledge Foundation Germany e.V., German Federal Ministry of Research and Education as well as everyone who is contributing to this project by providing feedback, ideas and further visionary thoughts.
 
 
-### Licence
+### License
 All work provided is published under the terms of the MIT Licence Agreement.
 See <a href="https://github.com/dicama/monk-modules/blob/main/LICENSE">DiCaMa Licence Agreement</a> for more information.
