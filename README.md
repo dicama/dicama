@@ -42,7 +42,7 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 * **Sebastian Schroth** `(Biomedical Engineer, Technical Architect, Innovator)`
 * **Christian Schulz** `(Visionary Mastermind, Revolutionizing Data-Security)`
 * **Christoph Speier** `(Software Architekt, Medical Expert, Speedy-Codezales)`
-* **Susanna Zsofer** `(Marketing Specialist, Creator, Cancer Warrior)` [join her community "Krebskriegerin"](https://www.facebook.com/krebskriegerin/)
+* **Susanna Zsoter** `(Marketing Specialist, Creator, Cancer Warrior)` [join her community "Krebskriegerin"](https://www.facebook.com/krebskriegerin/)
 
 ### Acknowledgment
 
