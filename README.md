@@ -21,6 +21,8 @@
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android-studio&logoColor=FFD42A&color=2D1553)
 ![](https://img.shields.io/badge/Design-MaterialUI-informational?style=flat&logo=material-UI&logoColor=FFD42A&color=2D1553)
 ![](https://img.shields.io/badge/UI&UX-Figma-informational?style=flat&logo=figma&logoColor=FFD42A&color=2D1553)
+![](https://img.shields.io/badge/PM-Trello-informational?style=flat&logo=Trello&logoColor=FFD42A&color=2D1553)
+![](https://img.shields.io/badge/PM-Slack-informational?style=flat&logo=Slack&logoColor=FFD42A&color=2D1553)
 
   ___
 
