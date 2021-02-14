@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&color=2D1553)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=FFD42A&color=2D1553)
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android-studio&logoColor=FFD42A&color=2D1553)
-![](https://img.shields.io/badge/Design-Material-UI-informational?style=flat&logo=material-UI&logoColor=FFD42A&color=2D1553)
+![](https://img.shields.io/badge/Design-MaterialUI-informational?style=flat&logo=material-UI&logoColor=FFD42A&color=2D1553)
 ![](https://img.shields.io/badge/UI&UX-Figma-informational?style=flat&logo=figma&logoColor=FFD42A&color=2D1553)
 
   ___
@@ -42,6 +42,10 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 * **Christian Schulz** `(Visionary Mastermind, Revolutionizing Data-Security)`
 * **Christoph Speier** `(Software Architekt, Medical Expert, Speedy-Codezales)`
 * **Susanna Zsofer** `(Marketing Specialist, Creator, Cancer Warrior)` [join her community "Krebskriegerin"](https://www.facebook.com/krebskriegerin/)
+
+### Acknowledgment
+
+We gratefully acknowledge strong support by the Open Knowledge Foundation Germany e.V., German Federal Ministry of Research and Education as well as everyone who is contributing to this project by providing feedback, ideas and further visionary thoughts.
 
 
 ### Licence
