@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center">Welcome to the Digital Cancer Management Repo👋</h2>
+ <h1 align="center">Welcome to the Digital Cancer Management Repo👋</h2>
  <p align="center"></p>
 </p>
   <p align="center">
@@ -13,14 +13,14 @@
 
 
 ### Technologies & Tools we use
-![](https://img.shields.io/badge/Dev-Flutter-informational?style=flat&logo=flutter&logoColor=FFD42A&color=2D1553)
-![](https://img.shields.io/badge/Lang-Dart-informational?style=flat&logo=dart&logoColor=FFD42A&color=2D1553)
-![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=FFD42A&color=2D1553)
-![](https://img.shields.io/badge/OS-iOS-informational?style=flat&color=2D1553)
-![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=FFD42A&color=2D1553)
-![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android-studio&logoColor=FFD42A&color=2D1553)
-![](https://img.shields.io/badge/Design-Material-informational?style=flat&logo=material-UI&logoColor=FFD42A&color=2D1553)
-![](https://img.shields.io/badge/UI&UX-Figma-informational?style=flat&logo=figma&logoColor=FFD42A&color=2D1553)
+![](https://img.shields.io/badge/Dev-Flutter-informational?style=flat-square&logo=flutter&logoColor=FFFFFF&color=4285F4)
+![](https://img.shields.io/badge/Lang-Dart-informational?style=flat-square&logo=dart&logoColor=FFFFFF&color=4285F4)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat-square&logo=android&logoColor=FFFFFF&color=4285F4)
+![](https://img.shields.io/badge/OS-iOS-informational?style=flat-square&color=4285F4)
+![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=FFFFFF&color=4285F4)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat-square&logo=android-studio&logoColor=FFFFFF&color=4285F4)
+![](https://img.shields.io/badge/Design-Material-informational?style=flat-square&logo=material-UI&logoColor=FFFFFF&color=4285F4)
+![](https://img.shields.io/badge/UI&UX-Figma-informational?style=flat-square&logo=figma&logoColor=FFFFFF&color=4285F4)
 
 
   ___
