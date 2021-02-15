@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">Welcome to the Digital Cancer Management Repo👋</h2>
+ <h1 align="center">Welcome to the Digital Cancer Management Repository</h2>
  <p align="center"></p>
 </p>
   <p align="center">
