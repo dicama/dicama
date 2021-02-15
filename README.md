@@ -30,9 +30,11 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 
 
 ### Our modular framework
-<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/MONK_system_architecture_V1_2.svg" width="1000">
+<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture2.SVG" width="1000">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-modules)](https://github.com/dicama/monk-modules)
+
+<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture1.SVG" width="1000">
 
 
 ### Contributors & Team
@@ -44,9 +46,11 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 * **Christoph Speier** `(Software Architekt, Medical Expert, Speedy-Codezales)`
 * **Susanna Zsoter** `(Marketing Specialist, Creator, Cancer Warrior)` [join her community "Krebskriegerin"](https://www.facebook.com/krebskriegerin/)
 
+
 ### Acknowledgment
 
 We gratefully acknowledge strong support by the Open Knowledge Foundation Germany e.V., Prototype Fund, German Federal Ministry of Research and Education, Health Hackers e.V. as well as everyone who is contributing to this project by providing feedback, ideas and further visionary thoughts.
+   
    
 ### License
 All work provided is published under the terms of the MIT Licence Agreement.
