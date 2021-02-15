@@ -26,7 +26,7 @@
   ___
 
 ### How to contribute
-We are a group of curious thinkers and makers with the goal to build an open-source ecosystem for cancer management. Our framwork is designed to be community-driven and modular. Therefore, we provide templating for coders and non-coders alike. Be part by contributing modules to our DiCaMa Application MONK <img src="https://github.com/dicama/dicama/blob/81b27e62880b85feaf58459e89ef7d17440289c7/MONK.PNG" width="30">. To make it easy for you to start right away, use our lowcode scripting language #monkykong (see <a href="https://github.com/dicama/monk-modules">Monk Modules</a>). Please check our <a href="https://github.com/dicama/monk-modules/blob/main/LICENSE">Contribution Guidelines</a> before starting with your first module. 
+We are a group of curious thinkers and makers with the goal to build an open-source ecosystem for cancer management. Our framwork is designed to be community-driven and modular. Therefore, we provide templating for coders and non-coders alike. Be part by contributing modules to our DiCaMa Application MONK. To make it easy for you to start right away, use our lowcode scripting language #monkykong (see <a href="https://github.com/dicama/monk-modules">Monk Modules</a>). Please check our <a href="https://github.com/dicama/monk-modules/blob/main/LICENSE">Contribution Guidelines</a> before starting with your first module. 
 
 
 ### Our modular framework
@@ -46,9 +46,17 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 
 ### Acknowledgment
 
-We gratefully acknowledge strong support by the Open Knowledge Foundation Germany e.V., German Federal Ministry of Research and Education as well as everyone who is contributing to this project by providing feedback, ideas and further visionary thoughts.
-
-
+We gratefully acknowledge strong support by the Open Knowledge Foundation Germany e.V., Prototype Fund, German Federal Ministry of Research and Education, Health Hackers e.V. as well as everyone who is contributing to this project by providing feedback, ideas and further visionary thoughts.
+   
 ### License
 All work provided is published under the terms of the MIT Licence Agreement.
 See <a href="https://github.com/dicama/monk-modules/blob/main/LICENSE">DiCaMa Licence Agreement</a> for more information.
+
+<!--
+<p class="aligncenter">
+       <img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Open_Knowledge_Foundation_Deutschland_Logo.svg" width="240">
+       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/20/DEgov-BMBF-Logo_en.svg" width="213">
+       <img align="rigth" src="https://secure.meetupstatic.com/photos/event/a/8/b/0/600_477643184.jpeg" width="150">
+       <img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PrototypeFund_Logo.svg" width="65">
+</p>
+-->
