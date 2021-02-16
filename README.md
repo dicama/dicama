@@ -38,7 +38,7 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 
 
 ### Contributors & Team
-* **Dennise Cepeda** `(UX/UI Web De(v)signer, Researcher, Creator)`
+* **Dennise Cepeda** `(UX/UI Researcher, Designer, Creator)`
 * **Jonas Jung** `(UX/UI De(v)signer, Health-Tech Engineer, Creator)`
 * **Sebastian Schneider** `(Software Engineer, Backend-machine, Security)`
 * **Sebastian Schroth** `(Biomedical Engineer, Technical Architect, Innovator)`
