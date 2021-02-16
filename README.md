@@ -26,7 +26,7 @@
   ___
 
 ### How to contribute
-We are a group of curious thinkers and makers with the goal to build an open-source ecosystem for cancer management. Our framwork is designed to be community-driven and modular. Therefore, we provide templating for coders and non-coders alike. Be part by contributing modules to our DiCaMa Application MONK. To make it easy for you to start right away, use our lowcode scripting language #monkykong (see <a href="https://github.com/dicama/monk-modules">Monk Modules</a>). Please check our <a href="https://github.com/dicama/monk-modules/blob/main/LICENSE">Contribution Guidelines</a> before starting with your first module. 
+We are a group of curious thinkers and makers with the goal to build an open-source ecosystem for cancer management. Our framework is designed to be community-driven and modular. Therefore, we provide templating for coders and non-coders alike. Be part by contributing modules to our DiCaMa Application MONK. To make it easy for you to start right away, use our lowcode scripting language #monkykong (see <a href="https://github.com/dicama/monk-modules">Monk Modules</a>). Please check our <a href="https://github.com/dicama/monk-modules/blob/main/LICENSE">Contribution Guidelines</a> before starting with your first module. 
 
 
 ### Our modular framework
@@ -38,7 +38,7 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 
 
 ### Contributors & Team
-* **Dennise Capeda** `(UX/UI Web De(v)signer, Researcher, Creator)`
+* **Dennise Cepeda** `(UX/UI Web De(v)signer, Researcher, Creator)`
 * **Jonas Jung** `(UX/UI De(v)signer, Health-Tech Engineer, Creator)`
 * **Sebastian Schneider** `(Software Engineer, Backend-machine, Security)`
 * **Sebastian Schroth** `(Biomedical Engineer, Technical Architect, Innovator)`
