@@ -42,7 +42,7 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 * **Jonas Jung** `(UX/UI De(v)signer, Health-Tech Engineer, Creator)`
 * **Sebastian Schneider** `(Software Engineer, Backend-machine, Security)`
 * **Sebastian Schroth** `(Biomedical Engineer, Technical Architect, Innovator)`
-* **Christian Schulz** `(Visionary Mastermind, Revolutionizing Data-Security)`
+* **Christian Schulz** `(Visionary Mastermind, Data Advocate)`
 * **Christoph Speier** `(Software Architekt, Medical Expert, Speedy-Codezales)`
 * **Susanna Zsoter** `(Marketing Specialist, Creator, Cancer Warrior)` [join her community "Krebskriegerin"](https://www.facebook.com/krebskriegerin/)
 
@@ -50,7 +50,10 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 ### Acknowledgment
 
 We gratefully acknowledge strong support by the Open Knowledge Foundation Germany e.V., Prototype Fund, German Federal Ministry of Research and Education, Health Hackers e.V. as well as everyone who is contributing to this project by providing feedback, ideas and further visionary thoughts.
-   
+
+<p class="aligncenter">
+       <img align="middle" src="https://github.com/dicama/dicama/blob/dicama-imgs-1/acknowledgments.svg" width="800">
+ </p>
    
 ### License
 All work provided is published under the terms of the MIT Licence Agreement.
