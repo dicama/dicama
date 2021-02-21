@@ -46,7 +46,19 @@ Our modular framework aims to provide modularity and openness for developments, 
 developments for our <a href="https://github.com/dicama/monk-app">MONK-App</a> and involved packages (via PRs),
 bug fixing, beeing an excellent community member and help filing issues either for <a href="https://github.com/dicama/monk-app/issues">MONK-App</a>/<a href="https://github.com/dicama/monk-modules/issues">MONK-Modules</a> or providing valuable feedback in any sense. The following figure highlights our core-workflow to integrate your contribution within the MONK-Modulestore
 
+#### Contributing with MONK-modules:
+
+Before starting to `#hackaway` with your module, we recommend to get in touch with our MONK audit team first either by filing an issue on
+<a href="https://github.com/dicama/monk-modules/issues">MONK-Modules</a> or via mail. Thereby, we know what you are up to
+and could provide you valuable first feedback from our expert community as well as potential users. 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-modules)](https://github.com/dicama/monk-modules)
+
 <img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture2.SVG" width="1000">
+
+## Contributing to the MONK Ecosystem-App
+
+We are looking forward to see any contribution to the MONK ecosystem App via PRs. As the integral part of our modular framework is located within the development of the MONK App, we recommend contributors to contact our technical core team beforehand any major developments. This should ensure the integraty and consitance of the work, since you may need to get familiar with our current technical roadmap and processes involved (i.e. tree hygiene) to avoid common pitfalls. Getting in touch early on might be also a opportunity for us to involve you within the team and build a direct communication pipeline from the get-go. Nevertheless, we always try our best to keep you up-to-date about our future pipelines and roadmaps on GitHub.
 
 <img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture1.SVG" width="1000">
 
@@ -60,7 +72,6 @@ In order for an informed decision to be made by both, the intended MONK audit te
 other modules must provide a reason for doing so. As part of a quality control by the audit team before admission to the internal module store, both technical and medical
 aspects should be reviewed and evaluated.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-modules)](https://github.com/dicama/monk-modules)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-app)](https://github.com/dicama/monk-app)
 
 
