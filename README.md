@@ -29,6 +29,9 @@
 
 
   ___
+  
+<p align="center">
+<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/onboarding_3.png" width="400">
 
 ### How to contribute
 We are a group of curious thinkers and makers with the goal to build an open-source ecosystem for cancer management. Our framework is designed to be community-driven and modular. Therefore, we provide templating for coders and non-coders alike. Be part by contributing modules to our DiCaMa Application MONK. To make it easy for you to start right away, use our lowcode scripting language (for reference see <a href="https://github.com/dicama/monk-modules">Monk Modules</a>). 
