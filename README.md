@@ -90,8 +90,6 @@ Enough of declaration and pathos, now enjoy `#hacking` away with us!
 Cheers
 Your Monk Team
 
-https://de.linkedin.com/in/jonas-jung-6a89ba106
-https://de.linkedin.com/in/christian-schulz-4b3a7194
 
 ### Contributors & Team
 * **<a href="https://github.com/nnise">Dennise Cepeda</a>** `(UX/UI Researcher, Designer, Creator)`
