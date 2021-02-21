@@ -42,10 +42,9 @@ We are a group of curious thinkers and makers with the goal to build an open-sou
 Our guidelines should assure seamless and qualitative integration for your future contributions to the MONK ecosystem.
 
 ### The MONK App Ecosystem
-Our modular framework aims to provide modularity and openness for developments, while at the same time ensuring data sovereignty for users. Contributions thereby may include but
-are not limited to the integration of 3rd-party modules to the MONK Modulestore (via PRs), developments for our MONK-App and involved packages (via PRs), bug fixing, beeing an
-excellent community member and help filing issues either for MONK-App/MONK-Modules or providing valuable feedback in any sense. The following figure highlights our core-workflow
-to integrate your contribution within the MONK-Modulestore.
+Our modular framework aims to provide modularity and openness for developments, while at the same time ensuring data sovereignty for users. Contributions thereby may include but are not limited to the integration of 3rd-party modules to the <a href="https://github.com/dicama/monk-modules">MONK Modulestore</a> (via PRs),
+developments for our <a href="https://github.com/dicama/monk-app">MONK-App</a> and involved packages (via PRs),
+bug fixing, beeing an excellent community member and help filing issues either for <a href="https://github.com/dicama/monk-app/issues">MONK-App</a>/<a href="https://github.com/dicama/monk-modules/issues">MONK-Modules</a> or providing valuable feedback in any sense. 
 
 <img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture1.SVG" width="1000">
 
@@ -67,7 +66,7 @@ aspects should be reviewed and evaluated.
 Cancer is a f#*king complex issue (!)…. and dealing with it confronts every single patient with a variety of problems. 
 For technical enthusiasts using their skills to solve these kinds of problems for patients can be a fun and purposeful activity.
 
-To make helping patients for developers easy and as patient managing your cancer suck less, we came up with a modular open-source framework called Monk – which is an German
+To make helping patients for developers easy and as patient managing your cancer suck less, we came up with a modular open-source framework called MONK – which is an German
 abbreviation and stands for “Meine Onkologie” (my oncology) or technically speaking for “Modulare Onkologie” (modular onkology). As greater picture we envision a disease
 management operating system – basically something like Linux just for Cancer and later for all kind of diseases.
 
