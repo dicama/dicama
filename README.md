@@ -63,6 +63,28 @@ aspects should be reviewed and evaluated.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-app)](https://github.com/dicama/monk-app)
 
 
+### Why MONK?
+Cancer is a f#*king complex issue (!)…. and dealing with it confronts every single patient with a variety of problems. 
+For technical enthusiasts using their skills to solve these kinds of problems for patients can be a fun and purposeful activity.
+
+To make helping patients for developers easy and as patient managing your cancer suck less, we came up with a modular open-source framework called Monk – which is an German
+abbreviation and stands for “Meine Onkologie” (my oncology) or technically speaking for “Modulare Onkologie” (modular onkology). As greater picture we envision a disease
+management operating system – basically something like Linux just for Cancer and later for all kind of diseases.
+
+Open-Source is powerful and runs the world. But for us it is more than just being able to use and share code freely, it is about caring, human connections and for the sake of
+community. So, we challenge ourselves not only with coding for purpose and excellence, but to become the best community possible.
+
+The origin of this project is within a small non-profit tech community called Health Hacker e.V. from Germany. Our first rule there will be adapted for the Monk community as
+well: “Be excellent to each other”. But also, our approach to involve patients as much and as soon as possible. This project would not exist without the wonderful
+“Krebskriegerin” and it is great to know the people behind the screens from the brainstorming, feedback and discussion. Of course, achieving this in virtual community will be a
+bit tricky, but we trust in the kindness and curiosity of all of you.
+
+Enough of declaration and pathos, now enjoy `#hacking` away with us!
+
+Cheers
+Your Monk Team
+
+
 ### Contributors & Team
 * **Dennise Cepeda** `(UX/UI Researcher, Designer, Creator)`
 * **Jonas Jung** `(UX/UI De(v)signer, Health-Tech Engineer, Creator)`
