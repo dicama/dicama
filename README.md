@@ -44,7 +44,9 @@ Our guidelines should assure seamless and qualitative integration for your futur
 ### The MONK App Ecosystem
 Our modular framework aims to provide modularity and openness for developments, while at the same time ensuring data sovereignty for users. Contributions thereby may include but are not limited to the integration of 3rd-party modules to the <a href="https://github.com/dicama/monk-modules">MONK Modulestore</a> (via PRs),
 developments for our <a href="https://github.com/dicama/monk-app">MONK-App</a> and involved packages (via PRs),
-bug fixing, beeing an excellent community member and help filing issues either for <a href="https://github.com/dicama/monk-app/issues">MONK-App</a>/<a href="https://github.com/dicama/monk-modules/issues">MONK-Modules</a> or providing valuable feedback in any sense. 
+bug fixing, beeing an excellent community member and help filing issues either for <a href="https://github.com/dicama/monk-app/issues">MONK-App</a>/<a href="https://github.com/dicama/monk-modules/issues">MONK-Modules</a> or providing valuable feedback in any sense. The following figure highlights our core-workflow to integrate your contribution within the MONK-Modulestore
+
+<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture2.SVG" width="1000">
 
 <img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture1.SVG" width="1000">
 
@@ -87,7 +89,7 @@ Your Monk Team
 ### Contributors & Team
 * **Dennise Cepeda** `(UX/UI Researcher, Designer, Creator)`
 * **Jonas Jung** `(UX/UI De(v)signer, Health-Tech Engineer, Creator)`
-* **Sebastian Schneider** `(Software Engineer, Backend-machine, Security)`
+* **Sebastian Schneider** `(Software Engineer, Backend-machine, Data Security)`
 * **Sebastian Schroth** `(Biomedical Engineer, Technical Architect, Innovator)`
 * **Christian Schulz** `(Visionary Mastermind, Data Advocate)`
 * **Christoph Speier** `(Software Architekt, Medical Expert, Speedy-Codezales)`
