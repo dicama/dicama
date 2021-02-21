@@ -44,7 +44,7 @@ Our guidelines should assure seamless and qualitative integration for your futur
 ### The MONK App Ecosystem
 Our modular framework aims to provide modularity and openness for developments, while at the same time ensuring data sovereignty for users. Contributions thereby may include but are not limited to the integration of 3rd-party modules to the <a href="https://github.com/dicama/monk-modules">MONK Modulestore</a> (via PRs),
 developments for our <a href="https://github.com/dicama/monk-app">MONK-App</a> and involved packages (via PRs),
-bug fixing, beeing an excellent community member and help filing issues either for <a href="https://github.com/dicama/monk-app/issues">MONK-App</a>/<a href="https://github.com/dicama/monk-modules/issues">MONK-Modules</a> or providing valuable feedback in any sense. 
+bug fixing, community work by filing issues either for <a href="https://github.com/dicama/monk-app/issues">MONK-App</a>/<a href="https://github.com/dicama/monk-modules/issues">MONK-Modules</a> or providing valuable feedback in any sense. 
 
 #### Contributing with MONK-modules:
 
