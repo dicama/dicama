@@ -56,7 +56,7 @@ and could provide you valuable first feedback from our expert community as well 
 
 The following figure highlights our core-workflow to integrate your contribution within the MONK-Modulestore
 
-<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture2.SVG" width="1000">
+<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture_2.SVG" width="1000">
 
 ## Contributing to the MONK Ecosystem-App
 
