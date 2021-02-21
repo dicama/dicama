@@ -59,8 +59,6 @@ aspects should be reviewed and evaluated.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-modules)](https://github.com/dicama/monk-modules)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-app)](https://github.com/dicama/monk-app)
 
-<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture1.SVG" width="1000">
-
 
 ### Contributors & Team
 * **Dennise Cepeda** `(UX/UI Researcher, Designer, Creator)`
