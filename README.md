@@ -31,13 +31,33 @@
   ___
 
 ### How to contribute
-We are a group of curious thinkers and makers with the goal to build an open-source ecosystem for cancer management. Our framework is designed to be community-driven and modular. Therefore, we provide templating for coders and non-coders alike. Be part by contributing modules to our DiCaMa Application MONK. To make it easy for you to start right away, use our lowcode scripting language #monkykong (see <a href="https://github.com/dicama/monk-modules">Monk Modules</a>). Please check our <a href="https://github.com/dicama/monk-modules/blob/main/CONTRIBUTING.MD">Contribution Guidelines</a> before starting with your first module. 
+We are a group of curious thinkers and makers with the goal to build an open-source ecosystem for cancer management. Our framework is designed to be community-driven and modular. Therefore, we provide templating for coders and non-coders alike. Be part by contributing modules to our DiCaMa Application MONK. To make it easy for you to start right away, use our lowcode scripting language (for reference see <a href="https://github.com/dicama/monk-modules">Monk Modules</a>). 
 
+> Check our <a href="https://github.com/dicama/monk-modules/blob/main/CONTRIBUTING.MD">Contribution Guidelines</a> to get you started :rocket:
+> 
 
-### Our modular framework
-<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture2.SVG" width="1000">
+Our guidelines should assure seamless and qualitative integration for your future contributions to the MONK ecosystem.
+
+### The MONK App Ecosystem
+Our modular framework aims to provide modularity and openness for developments, while at the same time ensuring data sovereignty for users. Contributions thereby may include but
+are not limited to the integration of 3rd-party modules to the MONK Modulestore (via PRs), developments for our MONK-App and involved packages (via PRs), bug fixing, beeing an
+excellent community member and help filing issues either for MONK-App/MONK-Modules or providing valuable feedback in any sense. The following figure highlights our core-workflow
+to integrate your contribution within the MONK-Modulestore.
+
+<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture1.SVG" width="1000">
+
+`Access authorizations` in MONK: Data is only stored locally on the device and encrypted accordingly. Additionally, users have the option to secure the apps functional interface
+via system lock (e.g. by using their respective system-pin or fingerprint). For subsequent backup solutions, the patient should use the private key to secure all data or
+transfer it to other devices. To ensure modularity and data sovereignty, there is a central access layer that clearly defines access authorizations for all modules. Hereby,
+users should be informed about access-streams to their data, give consent and have the possibility to adjust access rights accordingly.  This is done either when a new module is
+started or by using the privacy view within the application.
+
+In order for an informed decision to be made by both, the intended MONK audit team in the review process and later by the patient him/herself, developers who access data from
+other modules must provide a reason for doing so. As part of a quality control by the audit team before admission to the internal module store, both technical and medical
+aspects should be reviewed and evaluated.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-modules)](https://github.com/dicama/monk-modules)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dicama&repo=monk-app)](https://github.com/dicama/monk-app)
 
 <img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture1.SVG" width="1000">
 
