@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/MONK_KeyVisual_Neu.svg" width="800">
+<img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/MONK_KeyVisual_Neu.svg" width="600">
 
 <p align="center">
  <h1 align="center">Welcome to the Digital Cancer Management Repository</h2>
