@@ -90,15 +90,17 @@ Enough of declaration and pathos, now enjoy `#hacking` away with us!
 Cheers
 Your Monk Team
 
+https://de.linkedin.com/in/jonas-jung-6a89ba106
+https://de.linkedin.com/in/christian-schulz-4b3a7194
 
 ### Contributors & Team
-* **Dennise Cepeda** `(UX/UI Researcher, Designer, Creator)`
-* **Jonas Jung** `(UX/UI De(v)signer, Health-Tech Engineer, Creator)`
-* **Sebastian Schneider** `(Software Engineer, Backend-machine, Data Security)`
-* **Sebastian Schroth** `(Biomedical Engineer, Technical Architect, Innovator)`
-* **Christian Schulz** `(Visionary Mastermind, Data Advocate)`
-* **Christoph Speier** `(Software Architekt, Medical Expert, Speedy-Codezales)`
-* **Susanna Zsoter** `(Marketing Specialist, Creator, Cancer Warrior)` [join her community "Krebskriegerin"](https://www.facebook.com/krebskriegerin/)
+* **<a href="https://github.com/nnise">Dennise Cepeda</a>** `(UX/UI Researcher, Designer, Creator)`
+* **<a href="https://de.linkedin.com/in/jonas-jung-6a89ba106">Jonas Jung</a>** `(Biomedical Engineer, UX/UI De(v)signer, Creator)`
+* **<a href="https://github.com/basti-schneider">Sebastian Schneider</a>**`(Software Engineer, Backend-machine, Data Security)`
+* **<a href="https://github.com/schrothS7">Sebastian Schroth</a>** `(Biomedical Engineer, Technical Architect, Innovator)`
+* **<a href="https://de.linkedin.com/in/christian-schulz-4b3a7194">Christian Schulz</a>** `(Visionary Mastermind, Data Advocate)`
+* **<a href="https://github.com/cfspeier">Christoph Speier</a>** `(Software Architekt, Medical Expert, Speedy-Codezales)`
+* **<a href="https://www.facebook.com/krebskriegerin/">Susanna Zsoter</a>**  `(Marketing Specialist, Creator, Cancer Warrior)` [join her community "Krebskriegerin"](https://www.facebook.com/krebskriegerin/)
 
 
 ### Acknowledgment
