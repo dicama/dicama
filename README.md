@@ -6,7 +6,7 @@
  <p align="center"></p>
 </p>
   <p align="center">
-    <a href="#demo">View Demo</a>
+    <a href="https://appetize.io/app/4pt777c1yb0f2vmayummg063e4?device=pixel4&scale=75&orientation=portrait&osVersion=11.0">View Demo</a>
     ·
     <a href="https://github.com/dicama/monk-modules/issues/new/choose">Provide Feedback</a>
     ·
@@ -30,8 +30,32 @@
 
   ___
   
+  
+### Why MONK?
+Cancer is a f#*king complex issue (!)…. and dealing with it confronts every single patient with a variety of problems. 
+For technical enthusiasts using their skills to solve these kinds of problems for patients can be a fun and purposeful activity.
+
+To make helping patients for developers easy and as patient managing your cancer suck less, we came up with a modular open-source framework called MONK – which is an German
+abbreviation and stands for “Meine Onkologie” (my oncology) or technically speaking for “Modulare Onkologie” (modular onkology). As greater picture we envision a disease
+management operating system – basically something like Linux just for Cancer and later for all kind of diseases.
+
+Open-Source is powerful and runs the world. But for us it is more than just being able to use and share code freely, it is about caring, human connections and for the sake of
+community. So, we challenge ourselves not only with coding for purpose and excellence, but to become the best community possible.
+
+The origin of this project is within a small non-profit tech community called Health Hacker e.V. from Germany. Our first rule there will be adapted for the Monk community as
+well: “Be excellent to each other”. But also, our approach to involve patients as much and as soon as possible. This project would not exist without the wonderful
+“Krebskriegerin” and it is great to know the people behind the screens from the brainstorming, feedback and discussion. Of course, achieving this in virtual community will be a
+bit tricky, but we trust in the kindness and curiosity of all of you.
+
+Enough of declaration and pathos, now enjoy `#hacking` away with us!
+
+Cheers
+Your Monk Team
+  
+  
 <p align="center">
 <img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/onboarding_3.png" width="400">
+ 
 
 ### How to contribute
 We are a group of curious thinkers and makers with the goal to build an open-source ecosystem for cancer management. Our framework is designed to be community-driven and modular. Therefore, we provide templating for coders and non-coders alike. Be part by contributing modules to our DiCaMa Application MONK. To make it easy for you to start right away, use our lowcode scripting language (for reference see <a href="https://github.com/dicama/monk-modules">Monk Modules</a>). 
@@ -67,28 +91,6 @@ We are looking forward to see any contribution to the MONK ecosystem App via PRs
 <img src="https://github.com/dicama/dicama/blob/dicama-imgs-1/DiCaMa_Sys_Architecture1.SVG" width="1000">
 
 Check out our ecosystem repository and start coding with us
-
-
-### Why MONK?
-Cancer is a f#*king complex issue (!)…. and dealing with it confronts every single patient with a variety of problems. 
-For technical enthusiasts using their skills to solve these kinds of problems for patients can be a fun and purposeful activity.
-
-To make helping patients for developers easy and as patient managing your cancer suck less, we came up with a modular open-source framework called MONK – which is an German
-abbreviation and stands for “Meine Onkologie” (my oncology) or technically speaking for “Modulare Onkologie” (modular onkology). As greater picture we envision a disease
-management operating system – basically something like Linux just for Cancer and later for all kind of diseases.
-
-Open-Source is powerful and runs the world. But for us it is more than just being able to use and share code freely, it is about caring, human connections and for the sake of
-community. So, we challenge ourselves not only with coding for purpose and excellence, but to become the best community possible.
-
-The origin of this project is within a small non-profit tech community called Health Hacker e.V. from Germany. Our first rule there will be adapted for the Monk community as
-well: “Be excellent to each other”. But also, our approach to involve patients as much and as soon as possible. This project would not exist without the wonderful
-“Krebskriegerin” and it is great to know the people behind the screens from the brainstorming, feedback and discussion. Of course, achieving this in virtual community will be a
-bit tricky, but we trust in the kindness and curiosity of all of you.
-
-Enough of declaration and pathos, now enjoy `#hacking` away with us!
-
-Cheers
-Your Monk Team
 
 
 ### Contributors & Team
